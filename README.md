@@ -1,5 +1,5 @@
 # Loan Approval Prediction App
-
+Link app: https://loan-prediction-app-jbqhaftkaelvhcaer5dbmb.streamlit.app/
 For financial institutions, it is important to evaluate loan applications carefully in order to reduce credit risk and improve the loan approval process. Therefore, this project focuses on building a machine learning web application that predicts whether a loan application will be approved or rejected based on applicant and loan information.
 
 ## 1. Step to design interactive app
