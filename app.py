@@ -99,7 +99,7 @@ def render_input_form() -> tuple[bool, pd.DataFrame]:
             interest_rate    = st.number_input("Interest Rate (%)",  min_value=2.5, max_value=25.0, value=13.9, step=0.1)
             credit_score     = st.number_input("Credit Score",       min_value=300, max_value=850, value=679)
 
-        submitted = st.form_submit_button("PREDICT", use_container_width=True)
+        submitted = st.form_submit_button("ENTER", use_container_width=True)
 
     raw = pd.DataFrame([{
         "age":                  float(age),
